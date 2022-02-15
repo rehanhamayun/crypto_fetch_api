@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:grid_shopping_cart/list.dart';
+import 'package:grid_shopping_cart/view/crypto.dart';
 import 'package:grid_shopping_cart/view/ethereum.dart';
 
 void main() {
